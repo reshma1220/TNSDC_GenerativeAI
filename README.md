@@ -29,7 +29,9 @@ Modelling
 - Clean the data by removing duplicates, handling missing values, and standardizing formats.
 - Perform feature engineering to extract relevant features such as claim amount, claim type, policyholder demographics, etc.
 -	Split the data into training, validation, and test sets.
-Result:
+-
+-
+-	Result:
 
 1. Detecting fraud in insurance claims is crucial for maintaining the integrity of the industry and preventing financial losses. Recurrent Neural Networks (RNNs) offer a promising approach for fraud detection due to their ability to capture sequential patterns in data. By analyzing historical insurance claims data, RNNs can learn patterns indicative of fraudulent behavior, such as unusual claim patterns or inconsistencies in reported information.
 
